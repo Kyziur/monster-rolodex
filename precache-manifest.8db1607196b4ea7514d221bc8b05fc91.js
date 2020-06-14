@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c205ca261615e8471a9b1d8b832786e",
+    "revision": "6a0678cd8ac1b8620caee11ab479d1ff",
     "url": "/monster-rolodex/index.html"
   },
   {
-    "revision": "39b458c114375175f735",
+    "revision": "ad595d5e5450be9a8cef",
     "url": "/monster-rolodex/static/css/main.286cefb9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monster-rolodex/static/js/2.a3c82928.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39b458c114375175f735",
-    "url": "/monster-rolodex/static/js/main.e7510407.chunk.js"
+    "revision": "ad595d5e5450be9a8cef",
+    "url": "/monster-rolodex/static/js/main.9f73b331.chunk.js"
   },
   {
     "revision": "b46281a00ff77db46658",
